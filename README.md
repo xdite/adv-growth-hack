@@ -1,3 +1,3 @@
-# Introduction
+# Growth Hack 那樣做
 
-Growth Hack
+* [前言](00.md)
